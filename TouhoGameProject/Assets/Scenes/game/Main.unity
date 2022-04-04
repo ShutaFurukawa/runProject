@@ -1950,6 +1950,27 @@ PrefabInstance:
       propertyPath: jumpSpeed
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4899154160397816292, guid: ae17709815c096d4f8b984e660c37c14,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: bdf3a661c38c5ea49884f7d9898d2a60,
+        type: 3}
+    - target: {fileID: 4899154160397816292, guid: ae17709815c096d4f8b984e660c37c14,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4899154160397816292, guid: ae17709815c096d4f8b984e660c37c14,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 4899154160397816292, guid: ae17709815c096d4f8b984e660c37c14,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.48
+      objectReference: {fileID: 0}
     - target: {fileID: 8068967716735815712, guid: ae17709815c096d4f8b984e660c37c14,
         type: 3}
       propertyPath: m_LocalPosition.x
